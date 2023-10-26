@@ -1,6 +1,6 @@
 ### About me 🎀
 
-- 💻 Learning to program with @MusinxFate
+- 💻 Learning to program with [@MusinxFate](https://github.com/MusinxFate)
 
 <!---
 AnjaWingsS2/AnjaWingsS2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
